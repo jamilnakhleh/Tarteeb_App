@@ -1,0 +1,15 @@
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\bin\Debug\Tarteeb_App.exe.config
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\bin\Debug\Tarteeb_App.exe
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\bin\Debug\Tarteeb_App.pdb
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.csproj.AssemblyReference.cache
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.Form1.resources
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.Properties.Resources.resources
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.csproj.GenerateResource.cache
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.csproj.CoreCompileInputs.cache
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.exe
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.pdb
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\bin\Debug\Tarteeb_App.exe.manifest
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\bin\Debug\Tarteeb_App.application
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.exe.manifest
+C:\Users\Jamil H.Nakhleh\Documents\Jamil Nakhleh\C#\Tarteeb_App\obj\Debug\Tarteeb_App.application
